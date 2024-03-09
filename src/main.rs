@@ -13,5 +13,4 @@ fn main() {
     let my_ip = IpvAddrKind::V4;
     let new_ip = IpvAddrKind::V5;
     
-    ip_addr = 
 }
